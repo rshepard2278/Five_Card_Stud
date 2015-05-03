@@ -8,9 +8,8 @@ import java.util.Arrays;
 import java.util.Stack;
 
 import com.rshepard.fivecard.enumerators.CardRank;
-import com.rshepard.fivecard.enumerators.Value;
-import com.rshepard.fivecard.game.FiveCardStudGame;
 import com.rshepard.fivecard.game.Card;
+import com.rshepard.fivecard.game.FiveCardStudGame;
 import com.rshepard.fivecard.interfaces.State;
 
 /**
